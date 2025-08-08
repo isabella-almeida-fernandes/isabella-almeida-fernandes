@@ -83,7 +83,7 @@ Me chamo Isabella Almeida Fernandes, estou finalizando minha graduação bachare
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-almeidafernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-almeida-fernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
